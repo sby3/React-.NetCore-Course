@@ -1,1 +1,1 @@
-# React-.NetCore-Course
+# React-DotNetCore-Course
