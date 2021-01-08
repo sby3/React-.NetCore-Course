@@ -1,0 +1,17 @@
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/bin/Debug/net5.0/Application.deps.json
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/bin/Debug/net5.0/Application.dll
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/bin/Debug/net5.0/ref/Application.dll
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/bin/Debug/net5.0/Application.pdb
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/bin/Debug/net5.0/Domain.dll
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/bin/Debug/net5.0/Persistence.dll
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/bin/Debug/net5.0/Domain.pdb
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/bin/Debug/net5.0/Persistence.pdb
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/obj/Debug/net5.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/obj/Debug/net5.0/Application.dll
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/obj/Debug/net5.0/ref/Application.dll
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/obj/Debug/net5.0/Application.pdb

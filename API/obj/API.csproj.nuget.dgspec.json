@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\API\\API.csproj": {}
+    "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/API/API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\API\\API.csproj": {
+    "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/API/API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\API\\obj\\",
+        "projectPath": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/API/API.csproj",
+        "packagesPath": "/home/byrds/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/byrds/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Application\\Application.csproj": {
-                "projectPath": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Application\\Application.csproj"
+              "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/Application.csproj": {
+                "projectPath": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/Application.csproj"
               }
             }
           }
@@ -79,21 +79,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Application\\Application.csproj": {
+    "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Application\\obj\\",
+        "projectPath": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/Application.csproj",
+        "packagesPath": "/home/byrds/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/byrds/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -105,11 +105,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Domain\\Domain.csproj"
+              "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/Domain.csproj"
               },
-              "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Persistence\\Persistence.csproj"
+              "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Persistence/Persistence.csproj": {
+                "projectPath": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Persistence/Persistence.csproj"
               }
             }
           }
@@ -138,21 +138,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Domain\\Domain.csproj": {
+    "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Domain\\obj\\",
+        "projectPath": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/Domain.csproj",
+        "packagesPath": "/home/byrds/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/byrds/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -190,21 +190,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Persistence\\Persistence.csproj": {
+    "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Persistence\\obj\\",
+        "projectPath": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Persistence/Persistence.csproj",
+        "packagesPath": "/home/byrds/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/byrds/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -216,8 +216,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\steph\\Documents\\Code\\CSharp\\Reactivities\\Domain\\Domain.csproj"
+              "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/Domain.csproj"
               }
             }
           }
@@ -246,7 +246,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

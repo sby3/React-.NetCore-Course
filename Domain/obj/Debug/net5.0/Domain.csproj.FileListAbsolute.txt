@@ -1,0 +1,12 @@
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/bin/Debug/net5.0/Domain.deps.json
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/bin/Debug/net5.0/Domain.dll
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/bin/Debug/net5.0/ref/Domain.dll
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/bin/Debug/net5.0/Domain.pdb
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
+/mnt/c/Users/steph/Documents/Code/CSharp/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb
